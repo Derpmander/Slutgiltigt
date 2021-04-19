@@ -1,3 +1,4 @@
+import random
 file = input("Please enter the name of the file: ")
 with open (file, "r") as list:
     rows = list.readlines()
