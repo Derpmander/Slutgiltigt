@@ -1,0 +1,2 @@
+def listDef (Förnamn, Efternamn):
+    
